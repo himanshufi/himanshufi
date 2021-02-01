@@ -2,7 +2,7 @@
 
 I am `Himanshu Choudhary`, an Android Developer from India 🇮🇳 and currently in ❤️ with `Kotlin Programming Language`. I spend most of my time contributing to open source.
 
-I am currently making <a href="https://github.com/himanshufi/kotlinextensions"><b>more kotlin extensions</b></a> and working on a project to deep dive into <a href="https://github.com/himanshufi/BackgroundTasks"><b>background tasks.</b></a> 
+I am currently making <a href="https://github.com/himanshufi/kotlinextensions"><b>more kotlin extensions</b></a> and working on a project to deep dive into <a href="https://github.com/himanshufi/BackgroundTasks"><b>background tasks</b></a> in Android.
 
 Also, why are we not friends 🥺 till now? 
 
